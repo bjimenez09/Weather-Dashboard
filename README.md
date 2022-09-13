@@ -36,6 +36,6 @@ Finalized Screenshot
 
 - Repository: https://github.com/bjimenez09/Weather-Dashboard
 
-- Live URL: 
+- Live URL: https://bjimenez09.github.io/Weather-Dashboard/
 
 - - -

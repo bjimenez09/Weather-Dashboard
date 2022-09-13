@@ -26,6 +26,10 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 ```
 
+## Data
+
+Weather data for cities provided by [OpenWeather One Call API](https://openweathermap.org/api/one-call-api).
+
 ## Demo
 
 Finalized Screenshot
